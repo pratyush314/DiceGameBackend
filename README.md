@@ -38,8 +38,8 @@ This API provides a secure and transparent dice roll mechanism using **SHA-256 h
  } 
 ```
 🛠️ Setup & Installation
-1️⃣ Clone the Repository : git clone https://github.com/yourusername/dice-game-backend.git
-                          cd dice-game-backend
+1️⃣ Clone the Repository : git clone https://github.com/pratyush314/DiceGameBackend.git
+                          cd DiceGameBackend
 2️⃣ Install Dependencies : npm install
 
 3️⃣ Run the Server
